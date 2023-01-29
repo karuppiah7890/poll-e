@@ -1,6 +1,6 @@
 # poll-e
 
-Poll-e is an open source version of Polly Slack Bot
+Poll-e is an open source version of [Polly](https://www.polly.ai/) Slack Bot
 
 ## But Why?
 
