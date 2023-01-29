@@ -6,8 +6,8 @@ import { Manifest } from "deno-slack-sdk/mod.ts";
  * https://api.slack.com/future/manifest
  */
 export default Manifest({
-  name: "app",
-  description: "A blank template for building Slack apps with Deno",
+  name: "Poll-E",
+  description: "Create Polls and more!",
   icon: "assets/default_new_app_icon.png",
   functions: [],
   workflows: [],
